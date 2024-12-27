@@ -49,6 +49,43 @@ const destinations: Record<string, Destination> = {
       "https://images.unsplash.com/photo-1592639296346-560c37a0f711?q=80&w=800"
     ]
   },
+  "kerala-backwaters": {
+    id: "kerala-backwaters",
+    title: "Kerala Backwaters",
+    description: "Experience the serene beauty of Kerala's backwaters",
+    heroImage: "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?q=80&w=1600",
+    location: "Kerala, India",
+    duration: "4 Days",
+    groupSize: 10,
+    price: "From $399",
+    overview: "Explore the tranquil backwaters of Kerala on a traditional houseboat. This 4-day journey includes luxury accommodation on a private houseboat, authentic Kerala cuisine, and cultural experiences in local villages.",
+    itinerary: [
+      {
+        title: "Welcome to Kerala",
+        description: "Arrive in Kochi, transfer to Alleppey, and board your luxury houseboat."
+      },
+      {
+        title: "Backwater Cruise",
+        description: "Full day cruising through scenic backwaters, visiting local villages and temples."
+      },
+      {
+        title: "Village Life & Culture",
+        description: "Experience local life, try traditional fishing techniques, and enjoy cultural performances."
+      },
+      {
+        title: "Farewell Kerala",
+        description: "Morning yoga, local market visit, and departure with lasting memories."
+      }
+    ],
+    gallery: [
+      "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?q=80&w=800",
+      "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?q=80&w=800",
+      "https://images.unsplash.com/photo-1583997052103-b4a1cb974ce3?q=80&w=800",
+      "https://images.unsplash.com/photo-1580253464928-51c4c2d0b6e1?q=80&w=800",
+      "https://images.unsplash.com/photo-1590517862150-8253aa8f3fb5?q=80&w=800",
+      "https://images.unsplash.com/photo-1587474260584-136574528ed5?q=80&w=800"
+    ]
+  },
   "santorini": {
     id: "santorini",
     title: "Santorini, Greece",

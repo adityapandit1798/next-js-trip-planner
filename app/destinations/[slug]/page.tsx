@@ -1,8 +1,8 @@
 // Remove 'use client' directive here
-import { notFound } from 'next/navigation';
-import { getAllDestinations, getDestinationData } from '@/lib/destinations';
-import { DestinationDetails } from '@/components/destinations/destination-details';
-import { Navbar } from '@/components/layout/navbar';
+import { notFound } from "next/navigation";
+import { getAllDestinations, getDestinationData } from "@/lib/destinations";
+import { DestinationDetails } from "@/components/destinations/destination-details";
+import { Navbar } from "@/components/layout/navbar";
 
 // Server-side logic to fetch static params
 export async function generateStaticParams() {
@@ -12,11 +12,7 @@ export async function generateStaticParams() {
   }));
 }
 
-export default function DestinationPage({
-  params,
-}: {
-  params: { slug: string };
-}) {
+export default function DestinationPage({ params }: { params: { slug: string } }) {
   // Fetch the destination data based on the slug
   const destination = getDestinationData(params.slug);
 
