@@ -1,7 +1,3 @@
-Sure! Below is a sample `README.md` that covers the steps for Dockerizing a Next.js app, deploying it to GitHub Pages, and configuring a custom domain with Cloudflare DNS records.
-
----
-
 # Next.js App: Dockerizing, Deploying to GitHub Pages, and Using a Custom Domain with Cloudflare
 
 This guide covers how to:
@@ -187,7 +183,3 @@ To use a custom domain with your GitHub Pages site, you need to configure DNS se
 ### License
 
 This project is licensed under the MIT License.
-
----
-
-Let me know if you need further assistance!
