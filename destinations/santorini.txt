@@ -1,5 +1,5 @@
 1:HL["/next-js-trip-planner/_next/static/css/7c82df0f003739ff.css","style"]
-0:["3MkMCuPrn0vSsF-UdV-uV",[[["",{"children":["destinations",{"children":[["slug","santorini","d"],{"children":["__PAGE__?{\"slug\":\"santorini\"}",{}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/next-js-trip-planner/_next/static/css/7c82df0f003739ff.css","precedence":"next"}]],"$L3"]]]]
+0:["a2cA9kCxJF3jQn11XsLWY",[[["",{"children":["destinations",{"children":[["slug","santorini","d"],{"children":["__PAGE__?{\"slug\":\"santorini\"}",{}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/next-js-trip-planner/_next/static/css/7c82df0f003739ff.css","precedence":"next"}]],"$L3"]]]]
 4:I{"id":1443,"chunks":["272:static/chunks/webpack-e498ac28175656af.js","971:static/chunks/fd9d1056-99ad212a6b182d8e.js","864:static/chunks/864-50fba9a476c4a5aa.js"],"name":"","async":false}
 5:I{"id":8639,"chunks":["272:static/chunks/webpack-e498ac28175656af.js","971:static/chunks/fd9d1056-99ad212a6b182d8e.js","864:static/chunks/864-50fba9a476c4a5aa.js"],"name":"","async":false}
 6:I{"id":4724,"chunks":["724:static/chunks/724-ee7e7ba3a1417dce.js","160:static/chunks/app/not-found-3ca5ecd382008cc3.js"],"name":"","async":false}
